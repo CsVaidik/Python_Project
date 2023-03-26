@@ -5,8 +5,9 @@ Steps:-
 
 3.Open New Terminal in vscode and Type
 
-4.Now,First Clone The Repo in your Local Machine using The Given Command below:-
-git clone 
+4.Now,First Fork the repo in your Github
+Then copy the link and Clone The Repo in your Local Machine using The Given Command below:-
+git clone your repo generated link
 
 5.Now check status using :-
 git status
@@ -30,4 +31,5 @@ git add .
 13.Now to commit the change:-
 git commit -m "Your Name and What you change"
 
-14
+14 Then Type 
+git push origin Branch_Name
